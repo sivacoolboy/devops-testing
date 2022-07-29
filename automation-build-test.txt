@@ -1,0 +1,1 @@
+this is testing for ollscm and when the developers or any one done code changes in GIT repo , our jenkins jobs have to run automatically
